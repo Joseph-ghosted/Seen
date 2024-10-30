@@ -60,14 +60,13 @@ class HomeViewMobile extends ViewModelWidget<HomeViewModel> {
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(12.0),
                             ),
-                            title: Text('R'),
+                            title: Text('Refefe'),
                             content: SingleChildScrollView(
                               child: Column(
                                 children: [
                                   Text(
                                       'This is a rounded AlertDialog in Flutter. AlertDialog in Flutter.'),
                                   YMargin(20),
-                                 
                                 ],
                               ),
                             ),
