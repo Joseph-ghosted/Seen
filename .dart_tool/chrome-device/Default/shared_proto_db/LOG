@@ -1,4 +1,13 @@
-2024/11/03-21:01:45.540 8d03 Reusing MANIFEST /private/var/folders/r5/h396thcd2zvbrjxf9h3pyt100000gn/T/flutter_tools.Y7drAr/flutter_tools_chrome_device.AlUgjc/Default/shared_proto_db/MANIFEST-000001
-2024/11/03-21:01:45.541 8d03 Recovering log #4
-2024/11/03-21:01:45.541 8d03 Reusing old log /private/var/folders/r5/h396thcd2zvbrjxf9h3pyt100000gn/T/flutter_tools.Y7drAr/flutter_tools_chrome_device.AlUgjc/Default/shared_proto_db/000004.log 
-2024/11/03-21:01:45.542 8d03 Delete type=0 #3
+2024/11/07-10:55:22.047 a403 Reusing MANIFEST /private/var/folders/r5/h396thcd2zvbrjxf9h3pyt100000gn/T/flutter_tools.IXQee8/flutter_tools_chrome_device.Pquc4f/Default/shared_proto_db/MANIFEST-000001
+2024/11/07-10:55:22.047 a403 Recovering log #4
+2024/11/07-10:55:22.048 a403 Reusing old log /private/var/folders/r5/h396thcd2zvbrjxf9h3pyt100000gn/T/flutter_tools.IXQee8/flutter_tools_chrome_device.Pquc4f/Default/shared_proto_db/000004.log 
+2024/11/07-10:55:22.048 a403 Delete type=0 #3
+2024/11/07-10:58:41.743 a403 Level-0 table #8: started
+2024/11/07-10:58:41.757 a403 Level-0 table #8: 125727 bytes OK
+2024/11/07-10:58:41.769 a403 Delete type=0 #4
+2024/11/07-10:59:26.287 8603 Compacting 1@1 + 1@2 files
+2024/11/07-10:59:26.297 8603 Generated table #9@1: 97 keys, 17498 bytes
+2024/11/07-10:59:26.297 8603 Compacted 1@1 + 1@2 files => 17498 bytes
+2024/11/07-10:59:26.311 8603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/07-10:59:26.312 8603 Delete type=2 #5
+2024/11/07-10:59:26.312 8603 Delete type=2 #8
